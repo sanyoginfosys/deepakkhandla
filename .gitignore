@@ -1,0 +1,15 @@
+# Local credentials / salts — copy wp-config-sample.php and fill in per environment
+wp-config.php
+# Database dumps (contain user password hashes and subscriber data) — keep out of the repo
+*.sql
+# Archives over GitHub's 100 MB file limit
+*.zip
+# Generated caches and logs
+wp-content/cache/
+wp-content/debug.log
+wp-content/upgrade/
+wp-content/aiowps_backups/
+error_log
+wp-content/plugins/error_log
+.DS_Store
+Thumbs.db

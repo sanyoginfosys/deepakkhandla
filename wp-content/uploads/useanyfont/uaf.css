@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'chandan';
+				font-style: normal;
+				src: url('/deepakkhandla/wp-content/uploads/useanyfont/190219072859Chandan.eot');
+				src: local('chandan'), url('/deepakkhandla/wp-content/uploads/useanyfont/190219072859Chandan.eot') format('embedded-opentype'), url('/deepakkhandla/wp-content/uploads/useanyfont/190219072859Chandan.woff') format('woff');
+			}
+            
+            .chandan{font-family: 'chandan' !important;}
+            
+		
